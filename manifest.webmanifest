@@ -2,7 +2,7 @@
   "name": "Court Case Diary",
   "short_name": "Case Diary",
   "description": "Court case diary for advocates - hearings, stages, interim work, team sync.",
-  "start_url": "./court-diary.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
